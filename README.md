@@ -1,2 +1,7 @@
-# Code-Conqueror-1K
-1000 Leetcode solutions
+### LEETCODE SOLUTIONS
+
+#### ARRAY 
+1. TWO SUM (21 AUG 2025 Array - 2 loop/hashmap)
+2. REMOVE DEPLICATES FROM SORTED ARRAY (21 AUG 2025 - single pointer)
+3. REMOVE DUPLICATES (21 AUG 2025 - single pointer)
+4. 
