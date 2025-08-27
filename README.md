@@ -19,4 +19,15 @@
 16. THIRD LARGEST NUMBER(25 AUG 2025)
 17. FIND ALL NUMBER DISAPPEAR IN AN ARRAY(25 AUG 2025)
 
+#### Linked List 
+0. BASIC PROBLEMS
+   1. Insert first
+   2. Insert last
+   3. Insert middle
+   4. Delete first
+   5. Delete Last
+   6. Delete Middle
+   7. Traversal
+   8. Length
+   9. Search Element
 
