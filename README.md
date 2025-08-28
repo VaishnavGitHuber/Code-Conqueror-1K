@@ -20,7 +20,7 @@
 17. FIND ALL NUMBER DISAPPEAR IN AN ARRAY(25 AUG 2025)
 
 #### Linked List 
-0. BASIC PROBLEMS
+0. BASIC PROBLEMS(26 AUG 2025)
    1. Insert first
    2. Insert last
    3. Insert middle
@@ -30,4 +30,6 @@
    7. Traversal
    8. Length
    9. Search Element
+1. MERGE TWO SORTED LIST(27 AUG 2025 dummy node)
+2. REMOVE DUPLICATES FROM SORTED LIST(27 AUG 2025 dummy node)
 
