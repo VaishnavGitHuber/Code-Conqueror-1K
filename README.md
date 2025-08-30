@@ -37,3 +37,12 @@
 22. REVERSE LINKD LIST(28 AUG 2025 stack)
 23. PALINDROME LINKED LIST(28 AUG 2025 string approach)
 24. MIDDLE OF THE LINKED LIST(28 AUG 2025 basic)
+
+#### DOUBLY LINKED LIST
+0.  BASIC PROBLEMS(26 AUG 2025)
+   1. Insert first
+   2. Insert last
+   3. Delete first
+   4. Delete Last
+   5. Delete Middle
+   6. Traversal
