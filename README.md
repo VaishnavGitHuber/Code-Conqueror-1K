@@ -39,7 +39,7 @@
 24. MIDDLE OF THE LINKED LIST(28 AUG 2025 basic)
 
 #### DOUBLY LINKED LIST
-0.  BASIC PROBLEMS(26 AUG 2025)
+0. BASIC PROBLEMS(26 AUG 2025)
    1. Insert first
    2. Insert last
    3. Delete first
