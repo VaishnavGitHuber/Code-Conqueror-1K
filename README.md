@@ -39,6 +39,7 @@
 24. MIDDLE OF THE LINKED LIST(28 AUG 2025 basic calculation)
 25. ADD TWO NUMBERS(4 SEP 2025 dummynode)
 26. ODD AND EVEN LINKED LIST(4 SEP 2025 data replacement, changing links)
+27. SORT LINKED LIST 0s,1s,2s(4 SEP 2025 dummy-node, data-replacement, segregating-links)
 
 #### DOUBLY LINKED LIST
 0. BASIC PROBLEMS(26 AUG 2025)
