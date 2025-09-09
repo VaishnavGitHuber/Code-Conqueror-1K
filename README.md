@@ -24,37 +24,24 @@
 21. MAXIMUM CONSICUTIVE ONCES(7 SEP 2025)
 
 #### Linked List 
-0. BASIC PROBLEMS(26 AUG 2025)
-   1. Insert first
-   2. Insert last
-   3. Insert middle
-   4. Delete first
-   5. Delete Last
-   6. Delete Middle
-   7. Traversal
-   8. Length
-   9. Search Element
-18. MERGE TWO SORTED LIST(27 AUG 2025 dummy node)
-19. REMOVE DUPLICATES FROM SORTED LIST(27 AUG 2025 dummy node)
-20. LINKD LIST CYCLE(28 AUG 2025 node reference)
-21. REMOVE LINKED LIST ELEMENTS(28 AUG 2025 dummy node)
-22. REVERSE LINKD LIST(5 SEP 2025 stack,changing links)
-23. PALINDROME LINKED LIST(5 SEP 2025 string-approach, stack, slow-fast pointer & reverse)
-24. MIDDLE OF THE LINKED LIST(5 SEP 2025 basic calculation, tortose-hare(slow-fast pointers))
-25. ADD TWO NUMBERS(4 SEP 2025 dummynode)
-26. ODD AND EVEN LINKED LIST(4 SEP 2025 data replacement, changing links)
-27. SORT LINKED LIST 0s,1s,2s(4 SEP 2025 dummy-node, data-replacement, segregating-links)
-28. REMOVE Nth NODE FROM THE LAST(4 SEP 2025 calculation, fast-slow-pointer approach) R 1
+1. MERGE TWO SORTED LIST(27 AUG 2025 dummy node)
+2. REMOVE DUPLICATES FROM SORTED LIST(27 AUG 2025 dummy node)
+3. LINKD LIST CYCLE(28 AUG 2025 node reference)
+4. REMOVE LINKED LIST ELEMENTS(28 AUG 2025 dummy node)
+5. REVERSE LINKD LIST(5 SEP 2025 stack,changing links)
+6. PALINDROME LINKED LIST(5 SEP 2025 string-approach, stack, slow-fast pointer & reverse)
+7. MIDDLE OF THE LINKED LIST(5 SEP 2025 basic calculation, tortose-hare(slow-fast pointers))
+8. ADD TWO NUMBERS(4 SEP 2025 dummynode)
+9. ODD AND EVEN LINKED LIST(4 SEP 2025 data replacement, changing links)
+10. SORT LINKED LIST 0s,1s,2s(4 SEP 2025 dummy-node, data-replacement, segregating-links)
+11. REMOVE Nth NODE FROM THE LAST(4 SEP 2025 calculation, fast-slow-pointer approach) R 1
 
 #### DOUBLY LINKED LIST
-0. BASIC PROBLEMS(26 AUG 2025)
-   1. Insert first
-   2. Insert last
-   3. Delete first
-   4. Delete Last
-   5. Delete Middle
-   6. Traversal
 1. REVERSE THE LINKED LIST(3 SEP 2025 stack)
 
 
 #### BINARY TREE (9 SEP 2025)
+1. BINARY PRE ORDER TRAVERSAL(9 SEP 2025 recursion)
+2. BINARY POST ORDER TRAVERSAL(9 SEP 2025 recursion)
+3. BINARY IN ORDER TRAVERSAL(9 SEP 2025 recursion)
+4. BINARY LEVEL ORDER TRAVERSAL(9 SEP 2025 queue)
