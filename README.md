@@ -43,8 +43,8 @@
 24. MIDDLE OF THE LINKED LIST(5 SEP 2025 basic calculation, tortose-hare(slow-fast pointers))
 25. ADD TWO NUMBERS(4 SEP 2025 dummynode)
 26. ODD AND EVEN LINKED LIST(4 SEP 2025 data replacement, changing links)
-27. SORT LINKED LIST 0s,1s,2s(4 SEP 2025 dummy-node, data-replacement, segregating-links
-28. REMOVE Nth NODE FROM THE LAST(4 SEP 2025 calculation, fast-slow-pointer approach)
+27. SORT LINKED LIST 0s,1s,2s(4 SEP 2025 dummy-node, data-replacement, segregating-links)
+28. REMOVE Nth NODE FROM THE LAST(4 SEP 2025 calculation, fast-slow-pointer approach) R 1
 
 #### DOUBLY LINKED LIST
 0. BASIC PROBLEMS(26 AUG 2025)
@@ -55,3 +55,6 @@
    5. Delete Middle
    6. Traversal
 1. REVERSE THE LINKED LIST(3 SEP 2025 stack)
+
+
+#### BINARY TREE (9 SEP 2025)
