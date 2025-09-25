@@ -61,4 +61,5 @@
 10. BINARY TREE ZIG ZAG TRAVERSAL(11 SEP 2025 flag)
 11. TREE BOUNDRY TRAVERSAL(12 SEP 2025 special-approach)
 12. VERTICAL ORDER TRAVERSAL(13 SEP 2025 column-row approach)
-13. TOP VIEW OF BINARY TREE(13 SEP 2025 column approach)
+13. TOP VIEW OF BINARY TREE(13 SEP 2025 column approach/ vertical approach)
+14. BOTTOM VIEW OF BINARY TREE(26 SEP 2025 column approach/vertical approach)
