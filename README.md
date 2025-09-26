@@ -66,3 +66,4 @@
 15. LEFT VIEW OF BINARY TREE(26 SEP 2025 level order traversal)
 16. RIGHT SIDE VIEW OF BINARY TREE(26 SEP 2025 level order traversal)
 17. BOTTOM LEFT VALUE(26 SEP 2025 level order traversal)
+18. SYMETRIC TREE(26 SEP 2025 mirror rule)
