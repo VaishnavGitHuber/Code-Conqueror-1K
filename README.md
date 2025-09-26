@@ -49,8 +49,9 @@
 6. ADD BINARY(17 SEP 2025)
 
 #### BINARY TREE
-1. BINARY PRE ORDER TRAVERSAL(9 SEP 2025 recursion,iterative-stack)
-2. BINARY POST ORDER TRAVERSAL(9 SEP 2025 recursion,iterative-stack)
+- Same category : I(1,2,3,4,5) II(7,8)  III(6,9) IV(13,14,15,16,17)
+1. BINARY PRE ORDER TRAVERSAL(9 SEP 2025 recursion,iterative-stack) 
+2. BINARY POST ORDER TRAVERSAL(9 SEP 2025 recursion,iterative-stack) 
 3. BINARY IN ORDER TRAVERSAL(9 SEP 2025 recursion,iterative-stack)
 4. BINARY LEVEL ORDER TRAVERSAL(9 SEP 2025 queue)
 5. MAXIMUM DEPTH OF BINARY TREE(9 SEP 2025 queue)
