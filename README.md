@@ -63,3 +63,6 @@
 12. VERTICAL ORDER TRAVERSAL(13 SEP 2025 column-row approach)
 13. TOP VIEW OF BINARY TREE(13 SEP 2025 column approach/ vertical approach)
 14. BOTTOM VIEW OF BINARY TREE(26 SEP 2025 column approach/vertical approach)
+15. LEFT VIEW OF BINARY TREE(26 SEP 2025 level order traversal)
+16. RIGHT SIDE VIEW OF BINARY TREE(26 SEP 2025 level order traversal)
+17. BOTTOM LEFT VALUE(26 SEP 2025 level order traversal)
