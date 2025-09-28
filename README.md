@@ -73,6 +73,6 @@
 21. BINARY TREE LEVEL ORDER TRAVERSAL II(27 SEP 2025 level order traversal)
 
 #### Sorting 
-1. Selection Sort(28 Sep 2025)
-2. Insertion Sort(28 Sep 2025)
-3. Bubble Sort(28 Sep 2025)
+1. SELECTION SORT(28 Sep 2025)
+2. INSERTION SORT(28 Sep 2025)
+3. BUBBLE SORT(28 Sep 2025)
