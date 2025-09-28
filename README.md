@@ -71,3 +71,8 @@
 19. PATH SUM(27 SEP 2025 recursion)
 20. COUNT COMPLETE TREE NODES(27 SEP 2025 Traversal)
 21. BINARY TREE LEVEL ORDER TRAVERSAL II(27 SEP 2025 level order traversal)
+
+#### Sorting 
+1. Selection Sort(28 Sep 2025)
+2. Insertion Sort(28 Sep 2025)
+3. Bubble Sort(28 Sep 2025)
