@@ -1,7 +1,7 @@
 ### LEETCODE SOLUTIONS
 
 #### ARRAY 
-1. TWO SUM (21 AUG 2025 Array - double loop/hashmap)
+1. TWO SUM (21 AUG 2025 Array - nested loop/hashmap)
 2. REMOVE DEPLICATES FROM SORTED ARRAY (21 AUG 2025 - single pointer)
 3. REMOVE DUPLICATES (21 AUG 2025 - single pointer)
 4. SEARCH INSERTION POSITION( 22 AUG 2025 - single loop)
