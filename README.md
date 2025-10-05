@@ -29,6 +29,7 @@ same type I(1) II(2,3,4) III(5)
 25. UNION OF 2 SORTED ARRAY(3 OCT 2025 two pointer)
 26. INTERSECTION OF 2 SORTED ARRAYS(4 OCT 2025 two pointer)
 27. SUBARRAY SUM EQUALS K(4 OCT 2025 nested loop, prefix_sum/hashmap)
+28. SORT COLORS/SORT 0s,1s,2s(5 OCT 2025 mergesort, countvariables, Dutch National flag algorithm) 
 
 #### Linked List 
 1. MERGE TWO SORTED LIST(27 AUG 2025 dummy node)
