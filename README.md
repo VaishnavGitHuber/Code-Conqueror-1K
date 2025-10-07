@@ -86,3 +86,6 @@ same type I(1) II(2,3,4) III(5)
 3. BUBBLE SORT(28 Sep 2025)
 4. MERGE SORT(28 Sep 2025)
 5. QUICK SORT(01 Oct 2025) 
+
+#### GRAPH 
+1. GRAPH REPRESENTATION(adjececy matrix, adjecency list 7 OCT 2025)
