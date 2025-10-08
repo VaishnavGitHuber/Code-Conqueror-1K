@@ -90,3 +90,4 @@ same type I(1) II(2,3,4) III(5)
 #### GRAPH 
 1. GRAPH REPRESENTATION(adjececy matrix, adjecency list 7 OCT 2025)
 2. BREDTH FIRST SEARCH FOR GRAPH(queue, 7 OCT 2025)
+3. NO OF PROVINCES(8 OCT 2025)
