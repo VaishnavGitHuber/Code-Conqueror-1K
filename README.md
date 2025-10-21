@@ -1,7 +1,7 @@
 ### LEETCODE SOLUTIONS
 
 #### ARRAY 
-same type I(1) II(2,3,4) III(5), IV(7,8) 
+same type I(1) II(2,3,4) III(5), IV(7,8) V(7,8,11) VI(16,22,23)
 1. TWO SUM (21 AUG 2025 Array - nested loop/hashmap)
 2. REMOVE DEPLICATES FROM SORTED ARRAY (21 AUG 2025 - single pointer)
 3. REMOVE DUPLICATES (21 AUG 2025 - single pointer)
