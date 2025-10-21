@@ -1,17 +1,17 @@
 ### LEETCODE SOLUTIONS
 
 #### ARRAY 
-same type I(1) II(2,3,4) III(5)
+same type I(1) II(2,3,4) III(5), IV(7,8) 
 1. TWO SUM (21 AUG 2025 Array - nested loop/hashmap)
 2. REMOVE DEPLICATES FROM SORTED ARRAY (21 AUG 2025 - single pointer)
 3. REMOVE DUPLICATES (21 AUG 2025 - single pointer)
 4. SEARCH INSERTION POSITION( 22 AUG 2025 - single pointer)
 5. PLUS ONE( 22 AUG 2025 - algorithm based)
-6. MERGE THE SORTED ARRAY( 23 AUG 2025 - 2 pointer)
+6. MERGE THE SORTED ARRAY( 23 AUG 2025 - 2 pointer) IMP
 7. PASCALS TRANGLE( 23 AUG 2025 - BASIC)
 8. PASCALS TRANGLE 2( 23 AUG 2025 - BASIC)
-9. BEST TIME TO BUY AND SELL STOCK( 23 AUG 2025 - 2 pointer)
-10. SINGLE NUMBER(7 SEP 2025 - DOUBLE LOOP, Hashmap, sum of n numbers formula, xor)
+9. BEST TIME TO BUY AND SELL STOCK( 23 AUG 2025 - 2 pointer) IMP
+10. SINGLE NUMBER(7 SEP 2025 - DOUBLE LOOP, Hashmap, sum of n numbers formula, xor) IMP
 11. MAJORITY ELEMENT(24 AUG 2025 - Moore's votting algorithm single loop)
 12. CONTAIN DUPLICATES(24 AUG 2025 - single loop)
 13. MISSING NUMBER(7 SEP 2025 double loop, hashmap, sum of n number formula)
