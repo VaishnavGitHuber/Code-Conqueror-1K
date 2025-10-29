@@ -46,6 +46,7 @@ same type I(1) II(2,3,4,14) III(5), IV(7,8) V(7,8,11) VI(16,22,23)
 12. LENGTH OF THE LOOP(hash map, floyd's cycle detection algo(fast-slow))
 13. DELETE MIDDLE OF LINKED LIST(count_node, tortoise & hare algo)
 14. FIND FIRST NODE OF LOOP IN LINKED LIST(hashmap, floyd's cycle detection algorithm)
+15. ADD ONE TO A LINKED LIST(reverse-list, recursive)
 
 #### DOUBLY LINKED LIST
 1. REVERSE THE LINKED LIST(29 OCT 2025 stack, changing links)
