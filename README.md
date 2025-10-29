@@ -48,7 +48,7 @@ same type I(1) II(2,3,4,14) III(5), IV(7,8) V(7,8,11) VI(16,22,23)
 14. FIND FIRST NODE OF LOOP IN LINKED LIST(hashmap, floyd's cycle detection algorithm)
 
 #### DOUBLY LINKED LIST
-1. REVERSE THE LINKED LIST(3 SEP 2025 stack)
+1. REVERSE THE LINKED LIST(29 OCT 2025 stack, changing links)
 
 
 #### STRING 
