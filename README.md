@@ -32,6 +32,7 @@ same type I(1) II(2,3,4,14) III(5), IV(7,8) V(7,8,11) VI(16,22,23)
 28. SORT COLORS/SORT 0s,1s,2s(5 OCT 2025 mergesort, countvariables, Dutch National flag algorithm) 
 
 #### Linked List 
+same type I(12, 14, 17) 
 1. MERGE TWO SORTED LIST(27 AUG 2025 dummy node)
 2. REMOVE DUPLICATES FROM SORTED LIST(27 AUG 2025 dummy node)
 3. LINKD LIST CYCLE(28 AUG 2025 node reference)
@@ -48,6 +49,7 @@ same type I(1) II(2,3,4,14) III(5), IV(7,8) V(7,8,11) VI(16,22,23)
 14. FIND FIRST NODE OF LOOP IN LINKED LIST(hashmap, floyd's cycle detection algorithm)
 15. ADD ONE TO A LINKED LIST(reverse-list, recursive)
 16. INTERSECTION OF 2 LINKED LIST(hashmap, length-diff alignment technique, switching head techniique)
+17. DETECT A LOOP IN LINKED LIST(hashmap, floyd's cycle detection algorithm)
 
 #### DOUBLY LINKED LIST
 1. REVERSE THE LINKED LIST(29 OCT 2025 stack, changing links)
