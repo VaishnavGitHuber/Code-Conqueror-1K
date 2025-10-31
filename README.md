@@ -50,6 +50,7 @@ same type I(12, 14, 17)
 15. ADD ONE TO A LINKED LIST(reverse-list, recursive)
 16. INTERSECTION OF 2 LINKED LIST(hashmap, length-diff alignment technique, switching head techniique)
 17. DETECT A LOOP IN LINKED LIST(hashmap, floyd's cycle detection algorithm)
+18. DELETE ALL OCCURENCES OF GIVEN KEY IN DOUBLY LINKED LIST(single pointer inplace deletion)
 
 #### DOUBLY LINKED LIST
 1. REVERSE THE LINKED LIST(29 OCT 2025 stack, changing links)
