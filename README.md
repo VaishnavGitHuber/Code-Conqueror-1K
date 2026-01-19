@@ -98,7 +98,7 @@ same type I(12, 14, 17)
 6. TOPOLOGICAL SORTING(17 Jan 2026)
 
 #### GRAPH(0.5 C1)
-TypeI(1,2) II(3,4) III(5,6,7,8) IV(9,10)
+TypeI(1,2) II(3,4) III(5,6,7,8) IV(9,10) V(14-18)
 1. ADJECENCY MATRIX 5
 2. ADJECENCY LIST 5
 3. BREDTH FIRST SEARCH FOR GRAPH(queue, 7 OCT 2025) 5
@@ -113,5 +113,7 @@ TypeI(1,2) II(3,4) III(5,6,7,8) IV(9,10)
 12. IS GRAPH BIPARTITE - BFS Approach(13 Jan 2025) 3
 13. DETECT CYCLE IN DIRECTED GRAPH(14 Jan 2025) 2
 14. TOPOLOGICAL SORTING(14 Jan 2025) 4
-15. KAHN'S ALGORITHM - Topological sorting(15 Jan 2025) 3
-16. KAHN'S ALGORITHM - Cycle detection of directed graph (17 Jan 2025) 2
+15. KAHN'S ALGORITHM - Topological sorting(15 Jan 2025) 4
+16. KAHN'S ALGORITHM - Cycle detection of directed graph (17 Jan 2025) 3
+17. COURSE SCHEDULE I - Topologocal sorting(20 Jan 2025) 1
+18. COURSE SCHEDULE II - Topologocal sorting(20 Jan 2025) 1
