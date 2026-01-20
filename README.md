@@ -117,3 +117,4 @@ TypeI(1,2) II(3,4) III(5,6,7,8) IV(9,10) V(14-18)
 16. KAHN'S ALGORITHM - Cycle detection of directed graph (17 Jan 2025) 3
 17. COURSE SCHEDULE I - Topologocal sorting(20 Jan 2025) 1
 18. COURSE SCHEDULE II - Topologocal sorting(20 Jan 2025) 1
+19. ALIEN DICTIONARY (21 Jan 2025) 1
