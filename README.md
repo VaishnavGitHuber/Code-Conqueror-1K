@@ -90,8 +90,8 @@ same type I(12, 14, 17)
 21. BINARY TREE LEVEL ORDER TRAVERSAL II(27 SEP 2025 level order traversal)
 
 ### BINARY SEARCH TREE 
-1. Search in Binary Search Tree 1
-2. Ceil in Binary Search Tree 1
+1. Search in Binary Search Tree 2
+2. Ceil in Binary Search Tree 2
 3. floor of Binary Search Tree 1
 4. insert a node in BST 1
 
