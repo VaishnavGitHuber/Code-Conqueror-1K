@@ -94,6 +94,7 @@ same type I(12, 14, 17)
 2. Ceil in Binary Search Tree 3
 3. floor of Binary Search Tree 2
 4. insert a node in BST 2
+5. Deleta a node in BST 1
 
 #### SORTING(1 C)
 1. SELECTION SORT(28 Sep 2025) 4
