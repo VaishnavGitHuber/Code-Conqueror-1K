@@ -90,10 +90,10 @@ same type I(12, 14, 17)
 21. BINARY TREE LEVEL ORDER TRAVERSAL II(27 SEP 2025 level order traversal)
 
 ### BINARY SEARCH TREE 
-1. Search in Binary Search Tree 2
-2. Ceil in Binary Search Tree 2
-3. floor of Binary Search Tree 1
-4. insert a node in BST 1
+1. Search in Binary Search Tree 3
+2. Ceil in Binary Search Tree 3
+3. floor of Binary Search Tree 2
+4. insert a node in BST 2
 
 #### SORTING(1 C)
 1. SELECTION SORT(28 Sep 2025) 4
@@ -124,8 +124,8 @@ TypeI(1,2) II(3,4) III(5,6,7,8) IV(9,10) V(14-18)
 17. COURSE SCHEDULE I - Topologocal sorting(20 Jan 2025) 2
 18. COURSE SCHEDULE II - Topologocal sorting(20 Jan 2025) 2
 19. ALIEN DICTIONARY (21 Jan 2025) 2
-20. SHORTEST PATH DIRECTED ACYCLIC GRAPH(23 Jan 2025) 5
-21. DIJKSTRA's ALGORITHM(Using Priority Queue 23 Jan 2025) 5
-22. DIJKSTRA's ALGORITHM(Using Set 24 Jan 2025) 4
-23. BELLMAN FORD SHORTEST DISTANCE(24 Jan 2025) 4
-24. NEGATIVE WEIGHT CYCLE DETECTION(24 Jan 2025) 4
+20. SHORTEST PATH DIRECTED ACYCLIC GRAPH(23 Jan 2025) 6
+21. DIJKSTRA's ALGORITHM(Using Priority Queue 23 Jan 2025) 6
+22. DIJKSTRA's ALGORITHM(Using Set 24 Jan 2025) 5
+23. BELLMAN FORD SHORTEST DISTANCE(24 Jan 2025) 5
+24. NEGATIVE WEIGHT CYCLE DETECTION(24 Jan 2025) 5
