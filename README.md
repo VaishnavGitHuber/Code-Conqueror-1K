@@ -90,14 +90,14 @@ same type I(12, 14, 17)
 21. BINARY TREE LEVEL ORDER TRAVERSAL II(27 SEP 2025 level order traversal)
 
 ### BINARY SEARCH TREE 
-1. Search in Binary Search Tree 6
-2. Ceil in Binary Search Tree 6
-3. floor of Binary Search Tree 6
-4. insert a node in BST 6
-5. Deleta a node in BST 4
-6. Validate BST 4
-7. Inorder Sucessor in BST 3
-8. Inorder Predecessor in BST 2
+1. SEARCH IN BINARY SEARCH TREE 6
+2. CEIL IN BINARY SEARCH TREE 6
+3. FLOOR IN BINARY SEARCH TREE 6
+4. INSERT A NODE IN BST 6
+5. DELETE A NODE IN BST 4
+6. VALIDATE BST 4
+7. INORDER SUCESSOR IN BST 3
+8. INORDER PREDECESSOR IN BST 2
 
 #### SORTING(1 C)
 1. SELECTION SORT(28 Sep 2025) 4
