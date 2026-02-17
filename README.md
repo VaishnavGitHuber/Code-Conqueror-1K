@@ -33,11 +33,11 @@ same type I(1) II(2,3,4,14) III(5), IV(7,8) V(7,8,11) VI(16,22,23)
 
 #### Linked List 
 same type I(12, 14, 17) 
-1. MERGE TWO SORTED LIST(27 AUG 2025 dummy node)
-2. REMOVE DUPLICATES FROM SORTED LIST(27 AUG 2025 dummy node)
-3. LINKD LIST CYCLE(28 AUG 2025 node reference)
-4. REMOVE LINKED LIST ELEMENTS(28 AUG 2025 dummy node)
-5. REVERSE LINKD LIST(5 SEP 2025 stack,changing links)
+1. MERGE TWO SORTED LIST(27 AUG 2025 dummy node) 1
+2. REMOVE DUPLICATES FROM SORTED LIST(27 AUG 2025 dummy node) 1
+3. LINKD LIST CYCLE(28 AUG 2025 node reference) 1
+4. REMOVE LINKED LIST ELEMENTS(28 AUG 2025 dummy node) 1
+5. REVERSE LINKD LIST(5 SEP 2025 stack,changing links) 1
 6. PALINDROME LINKED LIST(5 SEP 2025 string-approach, stack, slow-fast pointer & reverse)
 7. MIDDLE OF THE LINKED LIST(5 SEP 2025 basic calculation, tortose-hare(slow-fast pointers))
 8. ADD TWO NUMBERS(4 SEP 2025 dummynode)
