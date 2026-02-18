@@ -44,8 +44,8 @@ same type I(12, 14, 17)
 9. ODD AND EVEN LINKED LIST(4 SEP 2025 data replacement, changing links) 1
 10. SORT LINKED LIST 0s,1s,2s(4 SEP 2025 dummy-node, data-replacement, segregating-links) 1
 11. REMOVE Nth NODE FROM THE LAST(4 SEP 2025 calculation, fast-slow-pointer approach) R 1
-12. LENGTH OF THE LOOP(hash map, floyd's cycle detection algo(fast-slow))
-13. DELETE MIDDLE OF LINKED LIST(count_node, tortoise & hare algo)
+12. LENGTH OF THE LOOP(hash map, floyd's cycle detection algo(fast-slow)) 1
+13. DELETE MIDDLE OF LINKED LIST(count_node, tortoise & hare algo) 1
 14. FIND FIRST NODE OF LOOP IN LINKED LIST(hashmap, floyd's cycle detection algorithm)
 15. ADD ONE TO A LINKED LIST(reverse-list, recursive)
 16. INTERSECTION OF 2 LINKED LIST(hashmap, length-diff alignment technique, switching head techniique)
