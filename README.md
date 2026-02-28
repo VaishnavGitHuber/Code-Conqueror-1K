@@ -54,6 +54,7 @@ same type I(12, 14, 17)
 19. REMOVE DUPLICATES II(hashmap) 1
 20. LINKED LIST CYCLE II(floyd's cycle detection algorithm, set) 1
 21. FLATTEN LINKED LIST(stack, recursion) 2
+22. SWAP NODES IN PAIRS(dummy node) 1
     
 
 #### DOUBLY LINKED LIST
