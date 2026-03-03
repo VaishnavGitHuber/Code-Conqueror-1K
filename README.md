@@ -53,8 +53,9 @@ same type I(12, 14, 17)
 18. REVERSE LINKED LIST II(stack) 1
 19. REMOVE DUPLICATES II(hashmap) 1
 20. LINKED LIST CYCLE II(floyd's cycle detection algorithm, set) 1
-21. FLATTEN LINKED LIST(stack, recursion) 2
+21. FLATTEN LINKED LIST(stack, recursion) 3
 22. SWAP NODES IN PAIRS(dummy node) 1
+23. COPY NODE WITH RANDOM POINTER(hashmap) 1
     
 
 #### DOUBLY LINKED LIST
