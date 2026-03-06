@@ -51,11 +51,11 @@ same type I(12, 14, 17)
 16. INTERSECTION OF 2 LINKED LIST(hashmap, length-diff alignment technique, switching head techniique)
 17. DETECT A LOOP IN LINKED LIST(hashmap, floyd's cycle detection algorithm)
 18. REVERSE LINKED LIST II(stack) 1
-19. REMOVE DUPLICATES II(hashmap) 1
-20. LINKED LIST CYCLE II(floyd's cycle detection algorithm, set) 1
-21. FLATTEN LINKED LIST(stack, recursion) 3
-22. SWAP NODES IN PAIRS(dummy node) 1
-23. COPY NODE WITH RANDOM POINTER(hashmap) 1
+19. REMOVE DUPLICATES II(hashmap) 2
+20. LINKED LIST CYCLE II(floyd's cycle detection algorithm, set) 2
+21. FLATTEN LINKED LIST(stack, recursion) 4
+22. SWAP NODES IN PAIRS(dummy node) 2
+23. COPY NODE WITH RANDOM POINTER(hashmap) 2
     
 
 #### DOUBLY LINKED LIST
