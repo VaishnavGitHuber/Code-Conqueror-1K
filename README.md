@@ -135,8 +135,8 @@ TypeI(1,2) II(3,4) III(5,6,7,8) IV(9,10) V(14-18)
 14. TOPOLOGICAL SORTING - stack(14 Jan 2025) 5
 15. KAHN'S ALGORITHM - Topological sorting(15 Jan 2025) 6
 16. KAHN'S ALGORITHM - Cycle detection of directed graph (17 Jan 2025) 5
-17. COURSE SCHEDULE I - Topologocal sorting(20 Jan 2025) 2
-18. COURSE SCHEDULE II - Topologocal sorting(20 Jan 2025) 2
+17. COURSE SCHEDULE I - Topologocal sorting(20 Jan 2025) 3
+18. COURSE SCHEDULE II - Topologocal sorting(20 Jan 2025) 3
 19. ALIEN DICTIONARY (21 Jan 2025) 2
 20. SHORTEST PATH DIRECTED ACYCLIC GRAPH(23 Jan 2025) 6
 21. DIJKSTRA's ALGORITHM(Using Priority Queue 23 Jan 2025) 6
