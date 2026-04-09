@@ -144,7 +144,7 @@ TypeI(1,2) II(3,4) III(5,6,7,8) IV(9,10) V(14-18)
 23. DIJKSTRA's ALGORITHM(Using Set 24 Jan 2025) 6
 24. BELLMAN FORD SHORTEST DISTANCE(24 Jan 2025) 6
 25. NEGATIVE WEIGHT CYCLE DETECTION(24 Jan 2025) 6
-26. Floyd-Warshall Shotest Path Algorithm 1
+26. Floyd-Warshall Shotest Path Algorithm 2
 
 
 ### TIME LINE 
