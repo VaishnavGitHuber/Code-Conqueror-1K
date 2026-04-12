@@ -145,6 +145,7 @@ TypeI(1,2) II(3,4) III(5,6,7,8) IV(9,10) V(14-18)
 24. BELLMAN FORD SHORTEST DISTANCE(24 Jan 2025) 6
 25. NEGATIVE WEIGHT CYCLE DETECTION(24 Jan 2025) 6
 26. Floyd-Warshall Shotest Path Algorithm 2
+27. Prim's Algorithm(Minimum Spanning Tree) 1
 
 
 ### TIME LINE 
