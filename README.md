@@ -41,17 +41,17 @@ same type I(12, 14, 17)
 6. PALINDROME LINKED LIST(5 SEP 2025 string-approach, stack, slow-fast pointer & reverse) 2
 7. MIDDLE OF THE LINKED LIST(5 SEP 2025 basic calculation, tortose-hare(slow-fast pointers)) 2
 8. ADD TWO NUMBERS(4 SEP 2025 dummynode) 3
-9. ODD AND EVEN LINKED LIST(4 SEP 2025 data replacement, changing links) 1
-10. SORT LINKED LIST 0s,1s,2s(4 SEP 2025 dummy-node, data-replacement, segregating-links) 1
-11. REMOVE Nth NODE FROM THE LAST(4 SEP 2025 calculation, fast-slow-pointer approach) R 1
-12. LENGTH OF THE LOOP(hash map, floyd's cycle detection algo(fast-slow)) 1
-13. DELETE MIDDLE OF LINKED LIST(count_node, tortoise & hare algo) 1
-14. FIND FIRST NODE OF LOOP IN LINKED LIST(hashmap, floyd's cycle detection algorithm) 1
-15. ADD ONE TO A LINKED LIST(reverse-list, recursive) 1
+9. ODD AND EVEN LINKED LIST(4 SEP 2025 data replacement, changing links) 2
+10. SORT LINKED LIST 0s,1s,2s(4 SEP 2025 dummy-node, data-replacement, segregating-links) 2
+11. REMOVE Nth NODE FROM THE LAST(4 SEP 2025 calculation, fast-slow-pointer approach) R 2
+12. LENGTH OF THE LOOP(hash map, floyd's cycle detection algo(fast-slow)) 2
+13. DELETE MIDDLE OF LINKED LIST(count_node, tortoise & hare algo) 2
+14. FIND FIRST NODE OF LOOP IN LINKED LIST(hashmap, floyd's cycle detection algorithm) 2
+15. ADD ONE TO A LINKED LIST(reverse-list, recursive) 2
 16. INTERSECTION OF 2 LINKED LIST(hashmap, length-diff alignment technique, switching head techniique)
-17. DETECT A LOOP IN LINKED LIST(hashmap, floyd's cycle detection algorithm)
-18. REVERSE LINKED LIST II(stack) 1
-19. REMOVE DUPLICATES II(hashmap) 2
+17. DETECT A LOOP IN LINKED LIST(hashmap, floyd's cycle detection algorithm) 1
+18. REVERSE LINKED LIST II(stack) 2
+19. REMOVE DUPLICATES II(hashmap) 3
 20. LINKED LIST CYCLE II(floyd's cycle detection algorithm, set) 2
 21. FLATTEN LINKED LIST(stack, recursion) 4
 22. SWAP NODES IN PAIRS(dummy node) 2
