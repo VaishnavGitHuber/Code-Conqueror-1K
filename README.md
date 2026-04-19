@@ -50,7 +50,7 @@ same type I(12, 14, 17)
 15. ADD ONE TO A LINKED LIST(reverse-list, recursive) 2
 16. INTERSECTION OF 2 LINKED LIST(hashmap, length-diff alignment technique, switching head techniique)
 17. DETECT A LOOP IN LINKED LIST(hashmap, floyd's cycle detection algorithm) 1
-18. REVERSE LINKED LIST II(stack) 2
+18. REVERSE LINKED LIST II(stack) 3
 19. REMOVE DUPLICATES II(hashmap) 3
 20. LINKED LIST CYCLE II(floyd's cycle detection algorithm, set) 2
 21. FLATTEN LINKED LIST(stack, recursion) 4
@@ -147,6 +147,10 @@ TypeI(1,2) II(3,4) III(5,6,7,8) IV(9,10) V(14-18)
 26. Floyd-Warshall Shotest Path Algorithm 3
 27. Prim's Algorithm(Minimum Spanning Tree) 2
 
-
+### RECURSION
+1. Factorial - 1
+2. Sum of N numbers - 1
+3. Fabinocci numbers - 1
+   
 ### TIME LINE 
 - 3 APRIL - 15 APRIL => Graph DS
