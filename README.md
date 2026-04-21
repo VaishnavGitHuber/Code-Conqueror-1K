@@ -32,12 +32,16 @@ same type I(1) II(2,3,4,14) III(5), IV(7,8) V(7,8,11) VI(16,22,23)
 28. SORT COLORS/SORT 0s,1s,2s(5 OCT 2025 mergesort, countvariables, Dutch National flag algorithm) 
 
 #### STACK AND QUEUE 
-1. Valid Paranthesis(20 April 2026) 1
-2. Postfix to infix expression(20 April 2026) 1
-3. Prefix to infix expression(20 April 2026) 1
-4. Infix to postfix expression(20 April 2026) 1
-5. Infix to prefix expression(20 April 2026) 1 
+1. Valid Paranthesis(20 April 2026) 2
+2. Postfix to infix expression(20 April 2026) 2
+3. Prefix to infix expression(20 April 2026) 2
+4. Infix to postfix expression(20 April 2026) 2
+5. Infix to prefix expression(20 April 2026) 2
+6. Min Stack Implementation(21 April 2026) 1
+7. Next Greater Element I(21 April 2026) 1
+8. Next Greater Element II(21 April 2026) 1
 
+   
 #### Linked List 
 same type I(12, 14, 17) 
 1. MERGE TWO SORTED LIST(27 AUG 2025 dummy node) 3
