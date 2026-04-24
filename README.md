@@ -37,9 +37,9 @@ same type I(1) II(2,3,4,14) III(5), IV(7,8) V(7,8,11) VI(16,22,23)
 3. Prefix to infix expression(20 April 2026) 2
 4. Infix to postfix expression(20 April 2026) 2
 5. Infix to prefix expression(20 April 2026) 2
-6. Min Stack Implementation(21 April 2026) 1
-7. Next Greater Element I(21 April 2026) 1
-8. Next Greater Element II(21 April 2026) 1
+6. Min Stack Implementation(21 April 2026) 2
+7. Next Greater Element I(21 April 2026) 2
+8. Next Greater Element II(21 April 2026) 2
 
    
 #### Linked List 
