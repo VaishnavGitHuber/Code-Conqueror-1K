@@ -42,6 +42,7 @@ same type I(1) II(2,3,4,14) III(5), IV(7,8) V(7,8,11) VI(16,22,23)
 8. Next Greater Element II(21 April 2026) 2
 9. Previous Smaller Element(26 April 2026) 1
 10. Trapping rain Water(26 April 2026) 1
+11. Sum of subarray Minimum(29 April 2026) 1
 
    
 #### Linked List 
