@@ -166,3 +166,10 @@ TypeI(1,2) II(3,4) III(5,6,7,8) IV(9,10) V(14-18)
 1. Factorial - 1
 2. Sum of N numbers - 1
 3. Fabinocci numbers - 1
+
+
+### OWN SOLUTIONS 
+
+#### GRAPHS 
+1. Battle ships in a board - no_island(2 May 2026) 1
+2. Max Area of Island(2 May 2026) - no_island 1
