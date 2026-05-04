@@ -176,3 +176,4 @@ TypeI(1,2) II(3,4) III(5,6,7,8) IV(9,10) V(14-18)
 3. Graph Valid Tree(3 May 2026) - undirected cycle detection 1
 4. Island Perimeter(4 May 2026) - no of distinct island 1
 5. No of closed Islands(4 May 2026) - no of island 1
+6. Possible Bipartition(4 May 2026) - is graph bipartite? 1
