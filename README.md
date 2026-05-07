@@ -43,9 +43,10 @@ same type I(1) II(2,3,4,14) III(5), IV(7,8) V(7,8,11) VI(16,22,23)
 9. Previous Smaller Element(26 April 2026) monotonic stack 1
 10. Trapping rain Water(26 April 2026) monotonic stack 3
 11. Sum of subarray Minimum(29 April 2026) 2
-13. Next Greater Element(1 May 2026) monotonic stack 2
-14. Sum of Subarray(5 May 2026) contribution equation 2
-15. Sum of subarray ranges(5 May 2026) monotonic stack 2
+12. Next Greater Element(1 May 2026) monotonic stack 2
+13. Sum of Subarray(5 May 2026) contribution equation 2
+14. Sum of subarray ranges(5 May 2026) monotonic stack 2
+15. Asteroid Collision(7 May 2026) stack 1
 
    
 #### Linked List 
