@@ -50,6 +50,7 @@ same type I(1) II(2,3,4,14) III(5), IV(7,8) V(7,8,11) VI(16,22,23)
 16. Largest Rectangle in a Histogram(7 May 2026) 2
 17. Previous Greater Element(8 May 2026) 1
 18. Next Smaller Smaller Element(8 May 2026) 1
+19. Daily Temparature - next greater(8 May 2026) 1
 
    
 #### Linked List 
