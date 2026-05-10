@@ -52,6 +52,7 @@ same type I(1) II(2,3,4,14) III(5), IV(7,8) V(7,8,11) VI(16,22,23)
 18. Next Smaller Smaller Element(8 May 2026) 2
 19. Daily Temparature - next greater(8 May 2026) 1
 20. Maximal Rectangle - largest rectangle in histogram(9 May 2026) 1
+21. Remove K digits - monotonic stack(10 May 2026) 1
 
    
 #### Linked List 
