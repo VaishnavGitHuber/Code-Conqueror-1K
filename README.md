@@ -38,22 +38,22 @@ same type I(1) II(2,3,4,14) III(5), IV(7,8) V(7,8,11) VI(16,22,23)
 4. Infix to postfix expression(20 April 2026) 5
 5. Infix to prefix expression(20 April 2026) 5
 6. Min Stack Implementation(21 April 2026) - monotonic stack 3
-7. Next Greater Element I(21 April 2026) - monotonic stack 6
-8. Next Greater Element II(21 April 2026) monotonic stack 6
-9. Previous Smaller Element(26 April 2026) monotonic stack 6
+7. Next Greater Element I(21 April 2026) - monotonic stack 7
+8. Next Greater Element II(21 April 2026) monotonic stack 7
+9. Previous Smaller Element(26 April 2026) monotonic stack 7
 10. Trapping rain Water(26 April 2026) monotonic stack 3
 11. Sum of subarray Minimum(29 April 2026) 3
-12. Next Greater Element(1 May 2026) monotonic stack 3
+12. Next Greater Element(1 May 2026) monotonic stack 4
 13. Sum of Subarray(5 May 2026) contribution equation 3
 14. Sum of subarray ranges(5 May 2026) monotonic stack 3
 15. Asteroid Collision(7 May 2026) stack 2
 16. Largest Rectangle in a Histogram(7 May 2026) 2
-17. Previous Greater Element(8 May 2026) 2
-18. Next Smaller Smaller Element(8 May 2026) 2
-19. Daily Temparature - next greater(8 May 2026) 1
+17. Previous Greater Element(8 May 2026) 3
+18. Next Smaller Smaller Element(8 May 2026) 3
+19. Daily Temparature - next greater(8 May 2026) 2
 20. Maximal Rectangle - largest rectangle in histogram(9 May 2026) 1
-21. Remove K digits - monotonic stack(10 May 2026) 1
-22. Online Stock Problem - monotonic stack(10 May 2026) 1
+21. Remove K digits - monotonic stack(10 May 2026) 2
+22. Online Stock Problem - monotonic stack(10 May 2026) 2
 
    
 #### Linked List 
