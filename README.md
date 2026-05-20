@@ -68,8 +68,8 @@ same type I(12, 14, 17)
 6. PALINDROME LINKED LIST(5 SEP 2025 string-approach, stack, slow-fast pointer & reverse) 3
 7. MIDDLE OF THE LINKED LIST(5 SEP 2025 basic calculation, tortose-hare(slow-fast pointers)) 3
 8. ADD TWO NUMBERS(4 SEP 2025 dummynode) 4
-9. ODD AND EVEN LINKED LIST(4 SEP 2025 data replacement, changing links) 2
-10. SORT LINKED LIST 0s,1s,2s(4 SEP 2025 dummy-node, data-replacement, segregating-links) 2
+9. ODD AND EVEN LINKED LIST(4 SEP 2025 data replacement, changing links) 3
+10. SORT LINKED LIST 0s,1s,2s(4 SEP 2025 dummy-node, data-replacement, segregating-links) 3
 11. REMOVE Nth NODE FROM THE LAST(4 SEP 2025 calculation, fast-slow-pointer approach) R 2
 12. LENGTH OF THE LOOP(hash map, floyd's cycle detection algo(fast-slow)) 2
 13. DELETE MIDDLE OF LINKED LIST(count_node, tortoise & hare algo) 2
