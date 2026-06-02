@@ -64,9 +64,9 @@ same type I(12, 14, 17)
 2. REMOVE DUPLICATES FROM SORTED LIST(27 AUG 2025 dummy node) 4
 3. LINKD LIST CYCLE(28 AUG 2025 node reference) 4
 4. REMOVE LINKED LIST ELEMENTS(28 AUG 2025 dummy node) 3
-5. REVERSE LINKD LIST(5 SEP 2025 stack,changing links) 4
-6. PALINDROME LINKED LIST(5 SEP 2025 string-approach, stack, slow-fast pointer & reverse) 3
-7. MIDDLE OF THE LINKED LIST(5 SEP 2025 basic calculation, tortose-hare(slow-fast pointers)) 3
+5. REVERSE LINKD LIST(5 SEP 2025 stack,changing links) 5
+6. PALINDROME LINKED LIST(5 SEP 2025 string-approach, stack, slow-fast pointer & reverse) 4
+7. MIDDLE OF THE LINKED LIST(5 SEP 2025 basic calculation, tortose-hare(slow-fast pointers)) 4
 8. ADD TWO NUMBERS(4 SEP 2025 dummynode) 4
 9. ODD AND EVEN LINKED LIST(4 SEP 2025 data replacement, changing links) 3
 10. SORT LINKED LIST 0s,1s,2s(4 SEP 2025 dummy-node, data-replacement, segregating-links) 3
