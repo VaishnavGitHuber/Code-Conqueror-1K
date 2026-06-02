@@ -83,6 +83,7 @@ same type I(12, 14, 17)
 21. FLATTEN LINKED LIST(stack, recursion) 4
 22. SWAP NODES IN PAIRS(dummy node) 2
 23. COPY NODE WITH RANDOM POINTER(hashmap) 2
+24. REMOVE LOOP IN LINKED LIST(slow-fast) 1
     
 
 #### DOUBLY LINKED LIST
