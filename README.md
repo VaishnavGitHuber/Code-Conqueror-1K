@@ -81,7 +81,7 @@ same type I(12, 14, 17)
 19. REMOVE DUPLICATES II(hashmap) 3
 20. LINKED LIST CYCLE II(floyd's cycle detection algorithm, set) 2
 21. FLATTEN LINKED LIST(stack, recursion) 4
-22. SWAP NODES IN PAIRS(dummy node) 3
+22. SWAP NODES IN PAIRS(dummy node) 4
 23. COPY NODE WITH RANDOM POINTER(hashmap) 2
 24. REMOVE LOOP IN LINKED LIST(slow-fast) 1
     
@@ -101,12 +101,12 @@ same type I(12, 14, 17)
 
 #### BINARY TREE
 - Same category : I(1,2,3,4,5) II(7,8)  III(6,9) IV(13,14,15,16,17)
-1. BINARY PRE ORDER TRAVERSAL(9 SEP 2025 recursion,iterative-stack) 3
-2. BINARY POST ORDER TRAVERSAL(9 SEP 2025 recursion,iterative-stack) 3
-3. BINARY IN ORDER TRAVERSAL(9 SEP 2025 recursion,iterative-stack) 3
-4. BINARY LEVEL ORDER TRAVERSAL(9 SEP 2025 queue) 3
-5. MAXIMUM DEPTH OF BINARY TREE(9 SEP 2025 queue, recursion) 3
-6. BALANCED BINARY TREE(10 SEP 2025 recursion) 3
+1. BINARY PRE ORDER TRAVERSAL(9 SEP 2025 recursion,iterative-stack) 4
+2. BINARY POST ORDER TRAVERSAL(9 SEP 2025 recursion,iterative-stack) 4
+3. BINARY IN ORDER TRAVERSAL(9 SEP 2025 recursion,iterative-stack) 4
+4. BINARY LEVEL ORDER TRAVERSAL(9 SEP 2025 queue) 4
+5. MAXIMUM DEPTH OF BINARY TREE(9 SEP 2025 queue, recursion) 4
+6. BALANCED BINARY TREE(10 SEP 2025 recursion) 4
 7. DIAMETER OF A BINARY TREE(10 SEP 2025 resursion) 2
 8. MAXIMUM WIDTH OF A BINARY TREE(11 SEP 2025 indexing-nodes) 1
 9. SAME TREE (11 SEP 2025) 1
