@@ -32,6 +32,7 @@ same type I(1) II(2,3,4,14) III(5), IV(7,8) V(7,8,11) VI(16,22,23)
 28. SORT COLORS/SORT 0s,1s,2s(5 OCT 2025 mergesort, countvariables, Dutch National flag algorithm) 1
 29. FIND MISSING & REPETATIVE VALUES(hashmap) 1
 30. MAXIMUM SUB ARRAY - double loop, kadane's algorithm 1
+31. FIND MISSING AND REPEATED VALUE 1
 
 #### STACK AND QUEUE 
 1. Valid Paranthesis(20 April 2026) 7
@@ -192,3 +193,6 @@ TypeI(1,2) II(3,4) III(5,6,7,8) IV(9,10) V(14-18)
 4. Island Perimeter(4 May 2026) - no of distinct island 1
 5. No of closed Islands(4 May 2026) - no of island 1
 6. Possible Bipartition(4 May 2026) - is graph bipartite? 1
+
+#### MATHS 
+1. EXPONENTIAL POWER 1
