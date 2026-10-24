@@ -10,7 +10,7 @@ same type I(1) II(2,3,4,14) III(5), IV(7,8) V(7,8,11) VI(16,22,23)
 6. MERGE THE SORTED ARRAY( 23 AUG 2025 - 2 pointer) IMP 2
 7. PASCALS TRANGLE( 23 AUG 2025 - BASIC) 1
 8. PASCALS TRANGLE 2( 23 AUG 2025 - BASIC)1
-9. BEST TIME TO BUY AND SELL STOCK( 23 AUG 2025 - 2 pointer) IMP 3
+9. BEST TIME TO BUY AND SELL STOCK( 23 AUG 2025 - 2 pointer) IMP 4
 10. SINGLE NUMBER(7 SEP 2025 - DOUBLE LOOP, Hashmap, sum of n numbers formula, xor) IMP 1
 11. MAJORITY ELEMENT(24 AUG 2025 - Moore's votting algorithm single loop) 2
 12. CONTAIN DUPLICATES(24 AUG 2025 - single loop) 1
@@ -29,8 +29,9 @@ same type I(1) II(2,3,4,14) III(5), IV(7,8) V(7,8,11) VI(16,22,23)
 25. UNION OF 2 SORTED ARRAY(3 OCT 2025 two pointer)
 26. INTERSECTION OF 2 SORTED ARRAYS(4 OCT 2025 two pointer)
 27. SUBARRAY SUM EQUALS K(4 OCT 2025 nested loop, prefix_sum/hashmap)
-28. SORT COLORS/SORT 0s,1s,2s(5 OCT 2025 mergesort, countvariables, Dutch National flag algorithm)
+28. SORT COLORS/SORT 0s,1s,2s(5 OCT 2025 mergesort, countvariables, Dutch National flag algorithm) 1
 29. FIND MISSING & REPETATIVE VALUES(hashmap) 1
+30. MAXIMUM SUB ARRAY - double loop, kadane's algorithm 1
 
 #### STACK AND QUEUE 
 1. Valid Paranthesis(20 April 2026) 7
