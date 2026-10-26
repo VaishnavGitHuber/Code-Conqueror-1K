@@ -24,7 +24,7 @@ same type I(1) II(2,3,4,14) III(5), IV(7,8) V(7,8,11) VI(16,22,23)
 20. REVERSE ARRAY(6 SEP 2025) 1
 21. MAXIMUM CONSICUTIVE ONCES(7 SEP 2025)
 22. LARGEST ELEMENT(2 OCT 2025)
-23. SECOND LARGEST ELEMENT(2 OCT 2025)
+23. SECOND LARGEST ELEMENT(2 OCT 2025) 1
 24. CHECK IF ARRAY IS SORTED(2 OCT 2025)
 25. UNION OF 2 SORTED ARRAY(3 OCT 2025 two pointer)
 26. INTERSECTION OF 2 SORTED ARRAYS(4 OCT 2025 two pointer)
@@ -34,6 +34,7 @@ same type I(1) II(2,3,4,14) III(5), IV(7,8) V(7,8,11) VI(16,22,23)
 30. MAXIMUM SUB ARRAY - double loop, kadane's algorithm 3
 31. THREE SUM  - thriple loop, hashmap, sorting+2 pointer(26/10/2026) 2
 32. FOUR SUM - four loop, three loop + hashmap, sorting+2pointer(26/10/26) 1
+33. SET MATRIX ZERO 1
 
 #### STACK AND QUEUE 
 1. Valid Paranthesis(20 April 2026) 7
