@@ -34,6 +34,7 @@ same type I(1) II(2,3,4,14) III(5), IV(7,8) V(7,8,11) VI(16,22,23)
 30. MAXIMUM SUB ARRAY - double loop, kadane's algorithm 3
 31. FIND MISSING AND REPEATED VALUE 1
 32. THREE SUM  - thriple loop, hashmap, sorting+2 pointer(26/10/2026) 2
+33. FOUR SUM - four loop, three loop + hashmap, sorting+2pointer(26/10/26) 1
 
 #### STACK AND QUEUE 
 1. Valid Paranthesis(20 April 2026) 7
