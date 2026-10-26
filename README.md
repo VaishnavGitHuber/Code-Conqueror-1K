@@ -31,9 +31,9 @@ same type I(1) II(2,3,4,14) III(5), IV(7,8) V(7,8,11) VI(16,22,23)
 27. SUBARRAY SUM EQUALS K(4 OCT 2025 nested loop, prefix_sum/hashmap)
 28. SORT COLORS/SORT 0s,1s,2s(5 OCT 2025 mergesort, countvariables, Dutch National flag algorithm) 1
 29. FIND MISSING & REPETATIVE VALUES(hashmap) 1
-30. MAXIMUM SUB ARRAY - double loop, kadane's algorithm 2
+30. MAXIMUM SUB ARRAY - double loop, kadane's algorithm 3
 31. FIND MISSING AND REPEATED VALUE 1
-32. THREE SUM  - thriple loop, double loop(26/10/2026) 1
+32. THREE SUM  - thriple loop, hashmap, sorting+2 pointer(26/10/2026) 2
 
 #### STACK AND QUEUE 
 1. Valid Paranthesis(20 April 2026) 7
