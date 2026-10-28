@@ -32,9 +32,11 @@ same type I(1) II(2,3,4,14) III(5), IV(7,8) V(7,8,11) VI(16,22,23)
 28. SORT COLORS/SORT 0s,1s,2s(5 OCT 2025 mergesort, countvariables, Dutch National flag algorithm) 1
 29. FIND MISSING & REPETATIVE VALUES(hashmap) 1
 30. MAXIMUM SUB ARRAY - double loop, kadane's algorithm 3
-31. THREE SUM  - thriple loop, hashmap, sorting+2 pointer(26/10/2026) 2
+31. THREE SUM  - thriple loop, hashmap, sorting+2 pointer(26/10/2026) 3
 32. FOUR SUM - four loop, three loop + hashmap, sorting+2pointer(26/10/26) 1
 33. SET MATRIX ZERO 1
+34. NEXT PERMUTATION - prefix&suffix&pivot  1
+35. PRODUCT OF ARRAY EXCEPT SELF -double loop, prefix&suffix array, without prefix and suffix 1
 
 #### STACK AND QUEUE 
 1. Valid Paranthesis(20 April 2026) 7
