@@ -35,8 +35,8 @@ same type I(1) II(2,3,4,14) III(5), IV(7,8) V(7,8,11) VI(16,22,23)
 31. THREE SUM  - thriple loop, hashmap, sorting+2 pointer(26/10/2026) 3
 32. FOUR SUM - four loop, three loop + hashmap, sorting+2pointer(26/10/26) 1
 33. SET MATRIX ZERO 1
-34. NEXT PERMUTATION - prefix&suffix&pivot  1
-35. PRODUCT OF ARRAY EXCEPT SELF -double loop, prefix&suffix array, without prefix and suffix 1
+34. NEXT PERMUTATION - prefix&suffix&pivot  2
+35. PRODUCT OF ARRAY EXCEPT SELF -double loop, prefix&suffix array, without prefix and suffix 2
 36. MERGE INTERVALS 1
 
 #### STACK AND QUEUE 
