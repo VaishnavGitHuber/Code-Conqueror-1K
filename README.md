@@ -37,6 +37,7 @@ same type I(1) II(2,3,4,14) III(5), IV(7,8) V(7,8,11) VI(16,22,23)
 33. SET MATRIX ZERO 1
 34. NEXT PERMUTATION - prefix&suffix&pivot  1
 35. PRODUCT OF ARRAY EXCEPT SELF -double loop, prefix&suffix array, without prefix and suffix 1
+36. MERGE INTERVALS 1
 
 #### STACK AND QUEUE 
 1. Valid Paranthesis(20 April 2026) 7
