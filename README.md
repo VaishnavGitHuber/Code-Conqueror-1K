@@ -90,9 +90,9 @@ same type I(12, 14, 17)
 20. LINKED LIST CYCLE II(floyd's cycle detection algorithm, set) 2
 21. FLATTEN LINKED LIST(stack, recursion) 4
 22. SWAP NODES IN PAIRS(dummy node) 4
-23. COPY NODE WITH RANDOM POINTER(hashmap) 2
+23. COPY NODE WITH RANDOM POINTER(hashmap) 3
 24. REMOVE LOOP IN LINKED LIST(slow-fast) 1
-25. ROTATE LINKED LIST 1
+25. ROTATE LINKED LIST 2
     
 
 #### DOUBLY LINKED LIST
